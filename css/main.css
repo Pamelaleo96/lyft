@@ -1,9 +1,25 @@
+/*CLASES REUTILIZABLES*/
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    font-family: sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
+
+.text-uppercase {
+    text-transform: uppercase; /*trasnsformamos el tipo de texto a mayuscula*/
+}
+
+li {
+    display: inline; /*Coloque cada lista en una sola linea*/
+    list-style: none; /*Desaparece las viñetas de mi lista*/
+}
+
+li a {
+    color: inherit; /*Hereda el color de su padre (body)*/
+    text-decoration: none;
+}
+/**/
 
 nav {
     position: fixed;
