@@ -19,7 +19,6 @@ li a {
     color: inherit; /*Hereda el color de su padre (body)*/
     text-decoration: none;
 }
-/**/
 
 nav {
     position: fixed;
@@ -33,8 +32,7 @@ nav {
     width: 90px;
 }
 
-/*ESTILOS PARA LA BARRA DE NAVEGACIÓN*/
-
+/*STYLE FOR THE NAVEGATOR*/
 nav {
     position: fixed;
     top: 0;
@@ -86,10 +84,6 @@ nav ul li a:hover {
 
 
 /*STYLE FOR THE HEADER*/
-#head-lyft {
-
-}
-
 #head-lyft img {
     width: 100%;
     position: relative;
@@ -108,7 +102,6 @@ nav ul li a:hover {
 .box-form {
     text-align: left;
     margin: 67px 52px 67px 67px;
-
 }
 
 .box-form h1 {
@@ -128,26 +121,22 @@ form {
 }
 
 input {
-    color: #bfc7d9;
     font-weight: 300;
-    cursor: default;
+    cursor: focus;
     font-size: 1rem;
     line-height: 1.5;
     display: block;
     width: 100%;
-    padding-left: 0px;
-    border-bottom: 1px solid black;
+    border: none;
+    border-bottom: 1px solid rgb(77, 74, 74);
     outline: 0;
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-bottom: 40px;
 }
-
-a {
-    color: #ff00bf;
-    text-decoration: none;
+form {
+    margin-bottom: 30px;
 }
-
-a .btn {
+form .btn {
     color:white;
     text-decoration: none;
     background-color: #ff00bf;
@@ -159,5 +148,84 @@ a .btn {
     font-size: 1rem;
     line-height: 1.5;
     border-radius: .5rem;
+    margin-right: 20px;
 }
 
+p .text-pink {
+    text-decoration: none;
+    color: #ff00bf;
+}
+
+/*STYLE FOR THE SECTION INTRO*/
+
+#intro {
+    width: 100%;
+    height: 617px;
+}
+
+.intro-box {
+    background: linear-gradient(#76278F, #2B1E66);
+  position: relative;
+    height: 617px;
+}
+
+.box-left, .box-right {
+    /*display: inline-block;*/
+}
+
+#intro img {
+    position: absolute;
+    right: 100px;
+    top: 50px;
+    width: 500px;
+}
+
+/*Estilos reutilizados para secciones con video (amplify. june. good-thing)*/
+.box-left {
+    /*outline: 1px solid blue;*/
+    text-align: left;
+    font-size: 1rem;
+    line-height: 1.5;
+    float: left;
+    padding-top: 50px;    
+    padding-left: 4.5rem;
+    padding-right: 3rem;
+    width: 497.6px;
+    height: 593px;
+}
+
+.title {
+    font-weight: bold;
+    font-size: 1.75rem;
+    margin-bottom: 16px;
+}
+
+iframe {
+    /*outline: 1px solid red;*/
+    width: 1055px;
+    height: 593px;
+    right: 0px;
+}
+
+/*STYLE FOR THE SECTION AMPLIFY*/
+#amplify, #june, #good-thing {
+    width: 100%;
+    font-weight: bold;
+    color: black;
+    display: inline-block;
+}
+
+/*STYLE FOR THE SECTION JUNE*/
+#june .text-right {
+    padding-top: 50px; 
+    padding-left: 4rem;
+    padding-right: 4.5rem;
+    width: 497.6px;
+    height: 594.14px;
+    float: right;
+}
+
+#june {
+    margin:0px;
+    padding: 0px;
+}

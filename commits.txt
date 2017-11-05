@@ -1,0 +1,90 @@
+commit f4644cf32758d7aa6766751638461e71650dd9a3
+Author: Pamelaleo96 <delacruzlozano.p@gmail.com>
+Date:   Tue Oct 31 18:42:45 2017 -0500
+
+    Modificando section
+
+commit f99e1adeebdd747143b77bced44baf6debc1d9c0
+Author: llandreall <andrea.telleria@gmail.com>
+Date:   Tue Oct 31 18:29:38 2017 -0500
+
+    Agregando estilos de nav y header
+
+commit 4653d6c72ff6f8a8b36f6899d25694113e493954
+Author: Pamelaleo96 <delacruzlozano.p@gmail.com>
+Date:   Tue Oct 31 18:21:19 2017 -0500
+
+    Añadiendo seccion header
+
+commit 523197b995cb9562d0938b6b66f08f5e87748877
+Author: Pamelaleo96 <delacruzlozano.p@gmail.com>
+Date:   Tue Oct 31 17:02:06 2017 -0500
+
+    Añadiendo primera modificacion para css
+
+commit 8f8ccaa9c3ddccbf353b956700c27cd7af235e84
+Author: Pamelaleo96 <delacruzlozano.p@gmail.com>
+Date:   Tue Oct 31 16:57:42 2017 -0500
+
+    Añadiendo css navegador para lyft
+
+commit b0b403c46c52a82a1150685fa4a7700ff451cafa
+Author: Pamelaleo96 <delacruzlozano.p@gmail.com>
+Date:   Tue Oct 31 16:46:39 2017 -0500
+
+    Añadiendo section, footer y comentarios en HTML
+
+commit ed69753d0a1b8f1104f46c7568f52ab26c8b1c9e
+Author: llandreall <andrea.telleria@gmail.com>
+Date:   Tue Oct 31 15:51:56 2017 -0500
+
+    Añadiendo estructura HTML(nav, header y section)
+
+commit f890e3b834e21d7ffc808949a91016dcef71fa88
+Author: Pamelaleo96 <delacruzlozano.p@gmail.com>
+Date:   Tue Oct 31 14:56:52 2017 -0500
+
+    Empezando trabajo fly
+
+commit d797a2ee12d7bf000ec9711fbe6e532b336b492f
+Author: llandreall <andrea.telleria@gmail.com>
+Date:   Tue Oct 31 14:54:52 2017 -0500
+
+    prueba 3 github colaborativo
+
+commit 8af4296febd476238818a1f51a39812295f64abb
+Merge: d9bf3bc ae916bf
+Author: Pamelaleo96 <delacruzlozano.p@gmail.com>
+Date:   Tue Oct 31 14:50:23 2017 -0500
+
+    Prueba 2 github colaborativo
+
+commit d9bf3bc109f7ce44692d827956d0e7a01af2155d
+Author: Pamelaleo96 <delacruzlozano.p@gmail.com>
+Date:   Tue Oct 31 14:47:34 2017 -0500
+
+    Actualizando repositorio local prueba
+
+commit ae916bf16e5682b4a1317d56766c08e054594c09
+Author: llandreall <andrea.telleria@gmail.com>
+Date:   Tue Oct 31 14:44:53 2017 -0500
+
+    Probando header y p
+
+commit 7980eb1c81327f66ef005fd71e319f6d9ca20ed4
+Author: Pamelaleo96 <delacruzlozano.p@gmail.com>
+Date:   Tue Oct 31 14:18:47 2017 -0500
+
+    Añadiendo estructura html inicial
+
+commit 6320f3df70445f3a246880da6d162011799f24c1
+Author: Ivan Medina <medinadiazivan@gmail.com>
+Date:   Fri Sep 29 12:19:36 2017 -0500
+
+    boilerplate base
+
+commit fb71f1b5a3b505ad5e0f8678edd76af893dcb883
+Author: Ivan Medina Diaz <medinadiazivan@gmail.com>
+Date:   Tue Sep 26 18:31:12 2017 -0500
+
+    Initial commit
