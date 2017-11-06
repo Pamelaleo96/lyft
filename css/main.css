@@ -87,6 +87,7 @@ nav ul li a:hover {
 #head-lyft img {
     width: 100%;
     position: relative;
+    top: -150px;
 }
 
 .box-header {
@@ -133,9 +134,11 @@ input {
     margin-top: 30px;
     margin-bottom: 40px;
 }
+
 form {
     margin-bottom: 30px;
 }
+
 form .btn {
     color:white;
     text-decoration: none;
@@ -156,23 +159,35 @@ p .text-pink {
     color: #ff00bf;
 }
 
-/*STYLE FOR THE SECTION INTRO*/
-
-#intro {
+.color-transparent {
     width: 100%;
-    height: 617px;
+    display: block;
+    height: 7rem;
+    background: linear-gradient(transparent,#76278f);
 }
 
-.intro-box {
-    background: linear-gradient(#76278F, #2B1E66);
-  position: relative;
-    height: 617px;
+/*STYLE FOR THE SECTION INTRO*/
+#intro {
+    background: linear-gradient(#76278f,#2b1e66);   
+    width: 100%;
+    height: 616px;
+    position: absolute;
+    top: 537px;
 }
 
-.box-left, .box-right {
-    /*display: inline-block;*/
+.box-right {
+    position: relative;
 }
 
+.text-left {
+    padding: 64px 0px 64px 170px;
+    color:white;
+}
+
+.image-right {
+    
+    
+}
 #intro img {
     position: absolute;
     right: 100px;
@@ -213,6 +228,7 @@ iframe {
     font-weight: bold;
     color: black;
     display: inline-block;
+    position: relative;
 }
 
 /*STYLE FOR THE SECTION JUNE*/
@@ -223,9 +239,4 @@ iframe {
     width: 497.6px;
     height: 594.14px;
     float: right;
-}
-
-#june {
-    margin:0px;
-    padding: 0px;
 }
